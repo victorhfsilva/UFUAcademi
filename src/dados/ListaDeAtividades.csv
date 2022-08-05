@@ -1,0 +1,11 @@
+pilates_noite;Pilates;Pilates no período da noite.;Aeróbicos;
+yoga_noite;Yoga;Yoga no período da noite.;Aeróbicos;868.512.627-46;055.656.003-59;496.742.802-94;651.494.222-90;643.528.906-93;132.665.906-51;
+hidroginastica_noite;Hidroginástica;Hidroginástica no período da noite.;Aquáticos;868.512.627-46;055.656.003-59;496.742.802-94;651.494.222-90;643.528.906-93;
+natacao_tarde;Natação;Natação no período da tarde.;Aquáticos;868.512.627-46;055.656.003-59;496.742.802-94;651.494.222-90;643.528.906-93;132.665.906-51;132.665.906-51;252.918.970-66;
+futebol_teste_editar;futebol_teste;futebol_teste_manha;Aquáticos;868.512.627-46;055.656.003-59;496.742.802-94;651.494.222-90;643.528.906-93;
+basquete_M_manha;Basquete;Basquete masculino no perído da manhã.;Esportes;868.512.627-46;496.742.802-94;643.528.906-93;747.265.773-52;753.080.323-94;132.665.906-51;
+basquete_F_manha;Basquete;Basquete feminino no período da manhã.;Esportes;651.494.222-90;055.656.003-59;386.106.152-00;185.006.856-97;624.654.132-10;132.665.906-51;
+futebol_M_tarde;Futebol;Futebol masculino no período da tarde.;Esportes;868.512.627-46;496.742.802-94;643.528.906-93;747.265.773-52;753.080.323-94;252.918.970-66;
+futebol_F_tarde;Futebol;Futebol feminino no período da tarde.;Esportes;055.656.003-59;651.494.222-90;386.106.152-00;185.006.856-97;624.654.132-10;
+futebol;futebol_teste;futebol_teste_manha;Esportes;252.918.970-66;
+crossfit_manha;Crossfit;Crossfit no período da manhã.;Levantamento de Peso;868.512.627-46;055.656.003-59;496.742.802-94;651.494.222-90;643.528.906-93;132.665.906-51;252.918.970-66;
